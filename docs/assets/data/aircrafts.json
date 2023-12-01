@@ -1,0 +1,4960 @@
+{
+  "A35K": {
+    "objectId": "KKQogNDTkt",
+    "Model": "Airbus A350-1000",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A35K",
+    "IATACode": "351",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:19.191Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "GA7C": {
+    "Model": "Gulfstream G700",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GA7C"
+  },
+  "A124": {
+    "objectId": "DzAJRumklj",
+    "Model": "Antonov AN-124 Ruslan",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A124",
+    "IATACode": "A4F",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:31.646Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "A339": {
+    "objectId": "6j8sk9NKZG",
+    "Model": "Airbus A330-900neo",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A339",
+    "IATACode": "339",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:20.212Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A20N": {
+    "objectId": "I6JZsb2N6V",
+    "Model": "Airbus A320neo",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A20N",
+    "IATACode": "32N",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:17.561Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B212": {
+    "objectId": "ioeTdDRqUt",
+    "Model": "Bell 212",
+    "Manufacturer": "Bell",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "B212",
+    "IATACode": "BH2",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:33.510Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "FPFiZW5aZC"
+    }
+  },
+  "A333": {
+    "objectId": "NAWOZcAAov",
+    "Model": "Airbus A330-300",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A333",
+    "IATACode": "333",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:21.238Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B734": {
+    "objectId": "5J3qv1az8V",
+    "Model": "Boeing 737-400",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B734",
+    "IATACode": "734",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:57.222Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "A310": {
+    "objectId": "NEhzRsdEH2",
+    "Model": "Airbus A310-300",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A310",
+    "IATACode": "313",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:35.365Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B736": {
+    "objectId": "QOE4U04uKG",
+    "Model": "Boeing 737-600",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B736",
+    "IATACode": "736",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:56.334Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "AT72": {
+    "objectId": "domj4hLnGY",
+    "Model": "Aerospatiale/Alenia ATR 72",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT72",
+    "IATACode": "AT7",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:47.803Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "BL8": {
+    "objectId": "2LrpHHQAwI",
+    "Model": "8KCAB Decathlon, 8GCBC Scout",
+    "Manufacturer": "Aeroprakt",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BL8",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:35.763Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "9Pg7saxo4m"
+    }
+  },
+  "AT45": {
+    "objectId": "HxYZDxv19I",
+    "Model": "Aerospatiale/Alenia ATR 42-500",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT45",
+    "IATACode": "AT5",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:50.780Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "B463": {
+    "objectId": "ZnOHQeHhro",
+    "Model": "BAe 146-300",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B463",
+    "IATACode": "143",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:24:48.790Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "A210": {
+    "objectId": "RZOdhHBlq6",
+    "Model": "Aquila A 210",
+    "Manufacturer": "Aquila",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A210",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:20:02.023Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "wU2qYA6unf"
+    }
+  },
+  "AN32": {
+    "objectId": "SgDzjFHcDl",
+    "Model": "Antonov AN-32",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN32",
+    "IATACode": "A32",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:42.061Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "A337": {
+    "objectId": "Zil91trnxt",
+    "Model": "Airbus A330-700 \"Beluga XL\"",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A337",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:26.772Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "RJ70": {
+    "objectId": "Qt0IDixA05",
+    "Model": "Avro RJ70",
+    "Manufacturer": "Avro International Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "RJ70",
+    "IATACode": "AR7",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:20:35.210Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "EZLIJ3KIeJ"
+    }
+  },
+  "BCS3": {
+    "objectId": "MxOo25kjUH",
+    "Model": "Airbus A220-300",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BCS3",
+    "IATACode": "223",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:31.261Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "S210": {
+    "objectId": "p0ckjO9L3i",
+    "Model": "Aerospatiale (Sud Aviation) Se.210 Caravelle",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "S210",
+    "IATACode": "CRV",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:52.393Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "A318": {
+    "objectId": "Brv1x5cOGk",
+    "Model": "Airbus A318",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A318",
+    "IATACode": "318",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:53.466Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A158": {
+    "objectId": "yBQyRqY1Dd",
+    "Model": "Antonov An-158",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A158",
+    "IATACode": "A58",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:43.275Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "AT76": {
+    "objectId": "53Q1snt0O2",
+    "Model": "Aerospatiale/Alenia ATR 72-600",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT76",
+    "IATACode": "ATR",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:54.231Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "A321": {
+    "objectId": "ytokRGxP3n",
+    "Model": "Airbus A321 (sharklets)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A321",
+    "IATACode": "32B",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:52.662Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "AT73": {
+    "objectId": "LWWF8FA1Sp",
+    "Model": "Aerospatiale/Alenia ATR 72-200 series",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT73",
+    "IATACode": "ATR",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:53.135Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "A346": {
+    "objectId": "d67ny0LuFQ",
+    "Model": "Airbus A340-600",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A346",
+    "IATACode": "346",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:33.587Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A3ST": {
+    "objectId": "OOqPkgch0i",
+    "Model": "Airbus A300-600ST \"Super Transporter\" / \"Beluga\"",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A3ST",
+    "IATACode": "ABB",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:34.607Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A320": {
+    "objectId": "EFzvgfhBbB",
+    "Model": "Airbus A320",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A320",
+    "IATACode": "320",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:19:00.501Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A319": {
+    "objectId": "3ynnkFTGru",
+    "Model": "Airbus A319",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A319",
+    "IATACode": "319",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:19:02.484Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "EA33": {
+    "objectId": "fAIluH4uOZ",
+    "Model": "Airbus A330 (deprecated 1997: code replaced)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EA33",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:41.679Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "BER2": {
+    "objectId": "a9hrH3I6xl",
+    "Model": "Beriev Be-200 Altair",
+    "Manufacturer": "Beriev Aircraft Company",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BER2",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:48.166Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Nj6EjCb8TF"
+    }
+  },
+  "B721": {
+    "objectId": "gElTEJvMAI",
+    "Model": "Boeing 727-100",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B721",
+    "IATACode": "721",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:58.277Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "A338": {
+    "objectId": "XvMpGSCDGd",
+    "Model": "Airbus A330-800neo",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A338",
+    "IATACode": "338",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:42.127Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A343": {
+    "objectId": "J3vdxg6UrL",
+    "Model": "Airbus A340-300",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A343",
+    "IATACode": "343",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:43.171Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A388": {
+    "objectId": "EqKoYHwhwW",
+    "Model": "Airbus A380-800",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A388",
+    "IATACode": "388",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:44.151Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A148": {
+    "objectId": "HcjQ7U0Sh3",
+    "Model": "Antonov An-148",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A148",
+    "IATACode": "A81",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:43.813Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "AN26": {
+    "objectId": "QiXrA2JGpT",
+    "Model": "Antonov AN-26",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN26",
+    "IATACode": "A26",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:44.968Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "B743": {
+    "objectId": "bnwcoSNHOt",
+    "Model": "Boeing 747-300",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B743",
+    "IATACode": "743",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:21.904Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "AN72": {
+    "objectId": "poAB9EtiEx",
+    "Model": "Antonov AN-72 / AN-74",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN72",
+    "IATACode": "AN7",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:45.989Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "B720": {
+    "objectId": "FhxqsyBugD",
+    "Model": "Boeing 720B",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B720",
+    "IATACode": "B72",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:00.271Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "EA31": {
+    "objectId": "Jus3KuYPZn",
+    "Model": "Airbus A310 (deprecated 1997: code replaced)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EA31",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:45.253Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B429": {
+    "objectId": "Vv5vTx6M1G",
+    "Model": "Bell 429",
+    "Manufacturer": "Bell",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "B429",
+    "IATACode": "BH2",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:34.915Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "FPFiZW5aZC"
+    }
+  },
+  "RJ85": {
+    "objectId": "gmPY2xAxcA",
+    "Model": "Avro RJ85",
+    "Manufacturer": "Avro International Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "RJ85",
+    "IATACode": "AR8",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:20:36.102Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "EZLIJ3KIeJ"
+    }
+  },
+  "B462": {
+    "objectId": "bkD7AmPuxh",
+    "Model": "BAe 146-200",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B462",
+    "IATACode": "142",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:24:49.665Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "A342": {
+    "objectId": "ZOTAafMiUE",
+    "Model": "Airbus A340-200",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A342",
+    "IATACode": "342",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:47.129Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B412": {
+    "objectId": "xl2bu30wdj",
+    "Model": "Bell 412",
+    "Manufacturer": "Bell",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "B412",
+    "IATACode": "BH2",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:36.322Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "FPFiZW5aZC"
+    }
+  },
+  "CH7A": {
+    "objectId": "Fq73SXVoSP",
+    "Model": "7AC Champ, 7ECA Citabria",
+    "Manufacturer": "Champion Aircraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CH7A",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:28:54.926Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "q0zWxxekd6"
+    }
+  },
+  "B742": {
+    "objectId": "gbQosvB95n",
+    "Model": "Boeing 747-200",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B742",
+    "IATACode": "742",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:25.003Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B461": {
+    "objectId": "vh7P2MkBo0",
+    "Model": "BAe 146-100",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B461",
+    "IATACode": "141",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:24:50.605Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "A345": {
+    "objectId": "LOJkQUBFXf",
+    "Model": "Airbus A340-500",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A345",
+    "IATACode": "345",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:48.061Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "AP22": {
+    "objectId": "av4gCmbXTQ",
+    "Model": "Aeroprakt A-22 Foxbat / A-22 Valor / A-22 Vision",
+    "Manufacturer": "Aeroprakt",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AP22",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:40.249Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "9Pg7saxo4m"
+    }
+  },
+  "B722": {
+    "objectId": "FgOeq2Ozbn",
+    "Model": "Boeing 727-200",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B722",
+    "IATACode": "722",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:02.024Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "BE58": {
+    "objectId": "tmOv5OWQDG",
+    "Model": "Beechcraft Baron / 58 Baron",
+    "Manufacturer": "Beechcraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BE58",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:20.345Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "B3DquHibv9"
+    }
+  },
+  "A359": {
+    "objectId": "SGPqDxFAQR",
+    "Model": "Airbus A350-900",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A359",
+    "IATACode": "359",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:48.902Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "S601": {
+    "objectId": "A5KKmjq5TR",
+    "Model": "Aerospatiale SN.601 Corvette",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "S601",
+    "IATACode": "NDC",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:55.286Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "BLCF": {
+    "objectId": "kj5xCEqOG9",
+    "Model": "Boeing 747 LCF Dreamlifter",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BLCF",
+    "IATACode": "74B",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:03.043Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "A30B": {
+    "objectId": "joVR2dPCzU",
+    "Model": "Airbus A300B2, A300B4, and A300C4",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A30B",
+    "IATACode": "AB4",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:49.921Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B744": {
+    "objectId": "zdKj2UNoLh",
+    "Model": "Boeing 747-400F",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B744",
+    "IATACode": "74Y",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:36.013Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "AN30": {
+    "objectId": "a1kXBmW1wA",
+    "Model": "Antonov AN-30",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN30",
+    "IATACode": "A30",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:46.853Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "B39M": {
+    "objectId": "gPtWcLbwrP",
+    "Model": "Boeing 737 MAX 9",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B39M",
+    "IATACode": "7M9",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:07.210Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B741": {
+    "objectId": "TTDxYd81A0",
+    "Model": "Boeing 747-100",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B741",
+    "IATACode": "741",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:16.220Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B733": {
+    "objectId": "jwMwrF9Zic",
+    "Model": "Boeing 737-300",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B733",
+    "IATACode": "733",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:13.945Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B38M": {
+    "objectId": "UIeIlpieUQ",
+    "Model": "Boeing 737 MAX 8",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B38M",
+    "IATACode": "7M8",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:08.265Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B712": {
+    "objectId": "MMYLHmV7RE",
+    "Model": "Boeing 717",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B712",
+    "IATACode": "717",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:10.585Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "A19N": {
+    "objectId": "WTqLYsrhUv",
+    "Model": "Airbus A319neo",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A19N",
+    "IATACode": "31N",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:54.628Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B737": {
+    "objectId": "JHuoHEtOuj",
+    "Model": "Boeing 737-700",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B737",
+    "IATACode": "73G",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:17.389Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "BE55": {
+    "objectId": "BxLlVmAlUV",
+    "Model": "Beechcraft Baron / 55 Baron",
+    "Manufacturer": "Beechcraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BE55",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:21.507Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "B3DquHibv9"
+    }
+  },
+  "B732": {
+    "objectId": "5wsEkyExIV",
+    "Model": "Boeing 737-200",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B732",
+    "IATACode": "732",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:14.729Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "BCS1": {
+    "objectId": "wQuofgEBxu",
+    "Model": "Airbus A220-100",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BCS1",
+    "IATACode": "221",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:55.417Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A140": {
+    "objectId": "IYoiFLLgC1",
+    "Model": "Antonov AN-140",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A140",
+    "IATACode": "A40",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:47.620Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "AN12": {
+    "objectId": "LU79DWXCFe",
+    "Model": "Antonov AN-12",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN12",
+    "IATACode": "ANF",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:48.670Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "AN28": {
+    "objectId": "gxvoErKjed",
+    "Model": "Antonov AN-28",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN28",
+    "IATACode": "A28",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:50.640Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "AT75": {
+    "objectId": "1QgoqP4WrP",
+    "Model": "Aerospatiale/Alenia ATR 72-500",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT75",
+    "IATACode": "ATR",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:56.664Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "B37M": {
+    "objectId": "k1lGjPt8g1",
+    "Model": "Boeing 737 MAX 7",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B37M",
+    "IATACode": "7M7",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:19.122Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "EA32": {
+    "objectId": "OiCW8Kv3ok",
+    "Model": "Airbus A320 (deprecated 1997: code replaced)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EA32",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:58.013Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "N262": {
+    "objectId": "AwZbnGz00T",
+    "Model": "Aerospatiale (Nord) 262",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "N262",
+    "IATACode": "ND2",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:58.038Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "AT43": {
+    "objectId": "t10OFoPuxV",
+    "Model": "Aerospatiale/Alenia ATR 42-300 / 320",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT43",
+    "IATACode": "AT4",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:17:58.707Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "A21N": {
+    "objectId": "j7I5aswxz5",
+    "Model": "Airbus A321neo",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A21N",
+    "IATACode": "32Q",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:18:58.812Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A332": {
+    "objectId": "DsHBdF8xZj",
+    "Model": "Airbus A330-200",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A332",
+    "IATACode": "332",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:00.035Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "B703": {
+    "objectId": "j4OjHqoNVR",
+    "Model": "Boeing 707",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B703",
+    "IATACode": "703",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:22.958Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B739": {
+    "objectId": "0iXK9BHmOW",
+    "Model": "Boeing 737-900",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B739",
+    "IATACode": "739",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:21.105Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B738": {
+    "objectId": "xrNlt6HBiH",
+    "Model": "Boeing 737-800",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B738",
+    "IATACode": "738",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:20.014Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B190": {
+    "objectId": "RypjJ53oEC",
+    "Model": "Beechcraft 1900",
+    "Manufacturer": "Beechcraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B190",
+    "IATACode": "BEH",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:24.608Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "B3DquHibv9"
+    }
+  },
+  "EA30": {
+    "objectId": "4C8OsKpML5",
+    "Model": "Airbus A300 (deprecated 1997: code replaced)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EA30",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:19:01.675Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "RJ1H": {
+    "objectId": "pc4RQKF9MR",
+    "Model": "Avro RJ100",
+    "Manufacturer": "Avro International Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "RJ1H",
+    "IATACode": "AR1",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:21:10.349Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "EZLIJ3KIeJ"
+    }
+  },
+  "B3XM": {
+    "objectId": "GUkYIzJRIx",
+    "Model": "Boeing 737 MAX 10",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B3XM",
+    "IATACode": "7MJ",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:24.003Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "EA34": {
+    "objectId": "Pm2J29cbLm",
+    "Model": "Airbus A340 (deprecated 1997: code replaced)",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EA34",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:04.765Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "CH7B": {
+    "objectId": "SlfemlZNHI",
+    "Model": "7GCAA, 7GCBC, 7KCAB Citabria",
+    "Manufacturer": "Champion Aircraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CH7B",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:28:56.181Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "q0zWxxekd6"
+    }
+  },
+  "A306": {
+    "objectId": "qB2IY2cpdE",
+    "Model": "Airbus A300-600",
+    "Manufacturer": "Airbus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A306",
+    "IATACode": "AB6",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:19:03.481Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "A225": {
+    "objectId": "sHDAX63OYR",
+    "Model": "Antonov An-225 Mriya",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A225",
+    "IATACode": "A5F",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:51.616Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "B735": {
+    "objectId": "4cyO34XgjQ",
+    "Model": "Boeing 737-500",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B735",
+    "IATACode": "735",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:22:26.330Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "AT46": {
+    "objectId": "ElB4HfMiub",
+    "Model": "Aerospatiale/Alenia ATR 42-600",
+    "Manufacturer": "Aerospatiale",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AT46",
+    "IATACode": "ATR",
+    "createdAt": "2020-01-28T22:36:37.730Z",
+    "updatedAt": "2020-01-29T01:18:00.551Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "QwthjRtAzQ"
+    }
+  },
+  "AN24": {
+    "objectId": "kyRu6TWXHl",
+    "Model": "Antonov AN-24",
+    "Manufacturer": "Antonov",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AN24",
+    "IATACode": "AN4",
+    "createdAt": "2020-01-28T22:36:37.731Z",
+    "updatedAt": "2020-01-29T01:19:52.628Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "28oWZ0CudV"
+    }
+  },
+  "B74D": {
+    "objectId": "IHMhi7X9bl",
+    "Model": "Boeing 747-400D (deprecated 2018: no longer flying)",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B74D",
+    "IATACode": "74J",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:29.149Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B748": {
+    "objectId": "GoH86S63b5",
+    "Model": "Boeing 747-8I",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B748",
+    "IATACode": "74H",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:31.092Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B74R": {
+    "objectId": "Hvn8lp66ui",
+    "Model": "Boeing 747SR",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B74R",
+    "IATACode": "74R",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:41.741Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B763": {
+    "objectId": "ujl31URdFa",
+    "Model": "Boeing 767-300",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B763",
+    "IATACode": "763",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:37.059Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B77L": {
+    "objectId": "EFpHh87xOC",
+    "Model": "Boeing 777-200 Freighter",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B77L",
+    "IATACode": "77X",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:51.520Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B752": {
+    "objectId": "vyudcE73GO",
+    "Model": "Boeing 757F",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B752",
+    "IATACode": "75F",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:50.001Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B773": {
+    "objectId": "cyYLgs1feG",
+    "Model": "Boeing 777-300",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B773",
+    "IATACode": "773",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:38.113Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "H25B": {
+    "objectId": "L6HBNxY79X",
+    "Model": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900",
+    "Manufacturer": "Hawker Beechcraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "H25B",
+    "IATACode": "H25",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:36:21.245Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "snCrGHoBiQ"
+    }
+  },
+  "CL2T": {
+    "objectId": "yWVCguP5J8",
+    "Model": "Bombardier 415",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CL2T",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:20.439Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "GLEX": {
+    "objectId": "o79MMyb5yN",
+    "Model": "Bombardier Global Express / Raytheon Sentinel",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GLEX",
+    "IATACode": "CCX",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:23:54.898Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "B778": {
+    "objectId": "vgoI2VvKv2",
+    "Model": "Boeing 777-8",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B778",
+    "IATACode": "778",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:46.543Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B753": {
+    "objectId": "FU6gqV6pWC",
+    "Model": "Boeing 757-300",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B753",
+    "IATACode": "753",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:44.652Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B788": {
+    "objectId": "8gDDJPdztZ",
+    "Model": "Boeing 787-8",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B788",
+    "IATACode": "788",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:40.245Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B74S": {
+    "objectId": "xmAhIT5bJT",
+    "Model": "Boeing 747SP",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B74S",
+    "IATACode": "74L",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:42.461Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B772": {
+    "objectId": "Pi7ZIEpvk1",
+    "Model": "Boeing 777-200 / Boeing 777-200ER",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B772",
+    "IATACode": "772",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:43.758Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "B762": {
+    "objectId": "82DiTLYfsZ",
+    "Model": "Boeing 767-200",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B762",
+    "IATACode": "762",
+    "createdAt": "2020-01-28T22:36:38.261Z",
+    "updatedAt": "2020-01-29T01:22:48.967Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "CRJ7": {
+    "objectId": "wzHVLCx7n2",
+    "Model": "Canadair Regional Jet 700 | Regional Jet 550",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CRJ7",
+    "IATACode": "CR7",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:10.163Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "JS41": {
+    "objectId": "b2d6m8igom",
+    "Model": "British Aerospace Jetstream 41",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "JS41",
+    "IATACode": "J41",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:51.496Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "B764": {
+    "objectId": "3HCvxEqRYl",
+    "Model": "Boeing 767-400ER",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B764",
+    "IATACode": "764",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:52.311Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "CL30": {
+    "objectId": "QAIqGrDCFq",
+    "Model": "Bombardier BD-100 Challenger 300",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CL30",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:22.914Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "B779": {
+    "objectId": "v5fkgJCLPq",
+    "Model": "Boeing 777-9",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B779",
+    "IATACode": "779",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:53.229Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "H25C": {
+    "objectId": "1AYNSrdpMh",
+    "Model": "British Aerospace 125-1000 series / Hawker/Raytheon 1000",
+    "Manufacturer": "Hawker Beechcraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "H25C",
+    "IATACode": "H25",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:36:27.460Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "snCrGHoBiQ"
+    }
+  },
+  "C162": {
+    "objectId": "Okwba8k9Ai",
+    "Model": "Cessna 162",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C162",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:19.606Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "B78X": {
+    "objectId": "YBBMU2PeSh",
+    "Model": "Boeing 787-10",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B78X",
+    "IATACode": "781",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:53.724Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "GL5T": {
+    "objectId": "hJl9kBQaaQ",
+    "Model": "Bombardier BD-700 Global 5000",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GL5T",
+    "IATACode": "CCX",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:23.633Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "CRJX": {
+    "objectId": "jniB4cfsw0",
+    "Model": "Canadair Regional Jet 1000",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CRJX",
+    "IATACode": "CRK",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:25.612Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "C25B": {
+    "objectId": "JRxHUa17no",
+    "Model": "Cessna Citation CJ3",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C25B",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:21.390Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "JS31": {
+    "objectId": "ZuPm7m4uIe",
+    "Model": "British Aerospace Jetstream 31",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "JS31",
+    "IATACode": "J31",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:53.869Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "ATP": {
+    "objectId": "9LQN56aTHk",
+    "Model": "British Aerospace ATP",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "ATP",
+    "IATACode": "ATP",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:54.586Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "CRJ9": {
+    "objectId": "u7MT6IlyKE",
+    "Model": "Canadair Regional Jet 900",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CRJ9",
+    "IATACode": "CR9",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:26.518Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "C206": {
+    "objectId": "oVLrMIjruh",
+    "Model": "Cessna 206 Stationair",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C206",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:20.470Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "CL60": {
+    "objectId": "bCAYfRiNE1",
+    "Model": "Canadair Challenger",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CL60",
+    "IATACode": "CCJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:24.770Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "CN35": {
+    "objectId": "BGavwYcJxY",
+    "Model": "CASA/IPTN CN-235",
+    "Manufacturer": "Indonesian Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CN35",
+    "IATACode": "CS5",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:37:13.569Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "cEz8U6HMM1"
+    }
+  },
+  "DHC5": {
+    "objectId": "9bFAPeWbVU",
+    "Model": "De Havilland Canada DHC-5 Buffalo",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC5",
+    "IATACode": "DHC",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:22.737Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "B77W": {
+    "objectId": "BGj5GJ7Xw8",
+    "Model": "Boeing 777-300ER",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B77W",
+    "IATACode": "77W",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:54.725Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "F900": {
+    "objectId": "tIS6FLGXf7",
+    "Model": "Dassault Falcon 900",
+    "Manufacturer": "Dassault Falcon",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F900",
+    "IATACode": "DF9",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:55.923Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "6pFSgjNx6v"
+    }
+  },
+  "C650": {
+    "objectId": "ok9rEeA2MW",
+    "Model": "Cessna Citation III, VI, VII",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C650",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:24.243Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C77R": {
+    "objectId": "rVQxH7zvjJ",
+    "Model": "Cessna 177 Cardinal RG",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C77R",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:22.703Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C25A": {
+    "objectId": "3rBpdQMpRB",
+    "Model": "Cessna Citation CJ2",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C25A",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:38.939Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C510": {
+    "objectId": "pzKe2wx86B",
+    "Model": "Cessna Citation Mustang",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C510",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:31.059Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "CRJ1": {
+    "objectId": "1tzmCwfOaE",
+    "Model": "Canadair Regional Jet 100",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CRJ1",
+    "IATACode": "CR1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:27.474Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "HERN": {
+    "objectId": "qxa9OsfIec",
+    "Model": "De Havilland DH.114 Heron",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "HERN",
+    "IATACode": "DHH",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:30:28.025Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "JS32": {
+    "objectId": "1dTUuUWhIL",
+    "Model": "British Aerospace Jetstream 32",
+    "Manufacturer": "British Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "JS32",
+    "IATACode": "J32",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:56.147Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "MxhGOYq83B"
+    }
+  },
+  "SF50": {
+    "objectId": "7MY3az7Td9",
+    "Model": "Cirrus SF50 Vision Jet",
+    "Manufacturer": "Cirrus",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SF50",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:28.997Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "UeBaJoCkC5"
+    }
+  },
+  "C172": {
+    "objectId": "ejMznmHvBQ",
+    "Model": "Cessna 172",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C172",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:23.342Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C25C": {
+    "objectId": "rZVzEPoawF",
+    "Model": "Cessna Citation CJ4",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C25C",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:30.173Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "B789": {
+    "objectId": "pAilTws9Ku",
+    "Model": "Boeing 787-9",
+    "Manufacturer": "Boeing",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "B789",
+    "IATACode": "789",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:22:56.477Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JpqipcQe8h"
+    }
+  },
+  "C525": {
+    "objectId": "XBGlcPsSAU",
+    "Model": "Cessna CitationJet",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C525",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:29.369Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C310": {
+    "objectId": "lqz9j2cnfo",
+    "Model": "Cessna 310",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C310",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:28.167Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "DHC6": {
+    "objectId": "t5pgESoZwH",
+    "Model": "De Havilland Canada DHC-6 Twin Otter",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC6",
+    "IATACode": "DHT",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:28.543Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "BA11": {
+    "objectId": "HSUZb8Gvlv",
+    "Model": "British Aerospace (BAC) One Eleven",
+    "Manufacturer": "British Aircraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BA11",
+    "IATACode": "B11",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:25:04.958Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ZbJgwBWmMY"
+    }
+  },
+  "C208": {
+    "objectId": "6kaES08CZE",
+    "Model": "Cessna 208 Caravan",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C208",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:25.629Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "DH8C": {
+    "objectId": "74jRwSvI7l",
+    "Model": "De Havilland Canada DHC-8-300 Dash 8 / 8Q",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH8C",
+    "IATACode": "DH3",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:23.580Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DHC2": {
+    "objectId": "aBtR1mYxLu",
+    "Model": "De Havilland Canada DHC-2 Beaver",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC2",
+    "IATACode": "DHP",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:24.582Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "C46": {
+    "objectId": "wRT8ko8kzq",
+    "Model": "Curtiss C-46 Commando",
+    "Manufacturer": "Curtiss-Wright",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C46",
+    "IATACode": "CWC",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:46.867Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4JUSgjDB9I"
+    }
+  },
+  "C500": {
+    "objectId": "1oCMgDnKfQ",
+    "Model": "Cessna Citation I",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C500",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:32.153Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "CRJ2": {
+    "objectId": "A7UpeQVe3z",
+    "Model": "Canadair Regional Jet 200",
+    "Manufacturer": "Bombardier",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CRJ2",
+    "IATACode": "CR2",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:24:28.318Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "4hiy4aXTVl"
+    }
+  },
+  "DC10": {
+    "objectId": "YVjFgQI5G0",
+    "Model": "Douglas DC-10-30 Combi",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC10",
+    "IATACode": "D1M",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:38:47.244Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "CVLT": {
+    "objectId": "vBkpvTJTvK",
+    "Model": "Convair CV-580, Convair CV-600, Convair CV-640",
+    "Manufacturer": "Convair",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CVLT",
+    "IATACode": "CV5",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:36.742Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "VzWIOVaGhp"
+    }
+  },
+  "C152": {
+    "objectId": "2OJOzOGQpB",
+    "Model": "Cessna 152",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C152",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:34.619Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C182": {
+    "objectId": "RmKv2qnptB",
+    "Model": "Cessna 182 Skylane",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C182",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:36.402Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C212": {
+    "objectId": "PMVq8h41CT",
+    "Model": "CASA / IPTN 212 Aviocar",
+    "Manufacturer": "Indonesian Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C212",
+    "IATACode": "CS2",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:37:14.395Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "cEz8U6HMM1"
+    }
+  },
+  "DH8D": {
+    "objectId": "p7SK0DUbt0",
+    "Model": "De Havilland Canada DHC-8-400 Dash 8Q",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH8D",
+    "IATACode": "DH4",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:29.534Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DC85": {
+    "objectId": "Mgza5wALxY",
+    "Model": "Douglas DC-8-50",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC85",
+    "IATACode": "D8T",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:38:34.122Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "C550": {
+    "objectId": "eS4wODbyRU",
+    "Model": "Cessna Citation II",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C550",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:40.206Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C72R": {
+    "objectId": "mg0chGfHbs",
+    "Model": "Cessna 172 Cutlass RG",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C72R",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:37.077Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C750": {
+    "objectId": "OCYLfCB5Z1",
+    "Model": "Cessna Citation X",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C750",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:41.210Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "DA42": {
+    "objectId": "bWUHaL2r8x",
+    "Model": "Diamond DA42",
+    "Manufacturer": "Diamond Aircraft Industries",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DA42",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:31:01.828Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "TSOZIQEUGw"
+    }
+  },
+  "CVLP": {
+    "objectId": "NdMuIFj7wX",
+    "Model": "Convair CV-240 & -440",
+    "Manufacturer": "Convair",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CVLP",
+    "IATACode": "CV4",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:39.779Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "VzWIOVaGhp"
+    }
+  },
+  "DH8B": {
+    "objectId": "NdPRJ7Hr2t",
+    "Model": "De Havilland Canada DHC-8-200 Dash 8 / 8Q",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH8B",
+    "IATACode": "DH2",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:31.195Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "C210": {
+    "objectId": "ZjJ7ZNZEcP",
+    "Model": "Cessna 210 Centurion",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C210",
+    "IATACode": "CN1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:43.002Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "DHC4": {
+    "objectId": "x1BL6C3RIM",
+    "Model": "De Havilland Canada DHC-4 Caribou",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC4",
+    "IATACode": "DHC",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:30.385Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "FA7X": {
+    "objectId": "zUqgBPZtqU",
+    "Model": "Dassault Falcon 7X",
+    "Manufacturer": "Dassault Falcon",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "FA7X",
+    "IATACode": "DF7",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:56.410Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "6pFSgjNx6v"
+    }
+  },
+  "C560": {
+    "objectId": "EXhMcoqUHP",
+    "Model": "Cessna Citation V",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C560",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:41.924Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "CONC": {
+    "objectId": "F9m11woVQz",
+    "Model": "Concorde",
+    "Manufacturer": "Airbus, A\ufffdrospatiale, BAE Systems, Sud Aviation, British Aerospace, British Aircraft Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CONC",
+    "IATACode": "SSC",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:19:07.198Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "3U16JN6hEf"
+    }
+  },
+  "DOVE": {
+    "objectId": "77WJfT6THS",
+    "Model": "De Havilland DH.104 Dove",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DOVE",
+    "IATACode": "DHD",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:32.518Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DC6": {
+    "objectId": "J1oaYAMy6B",
+    "Model": "Douglas DC-6",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC6",
+    "IATACode": "D6F",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:38:41.642Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "C56X": {
+    "objectId": "W3GiJHX9FI",
+    "Model": "Cessna Citation Excel",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C56X",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:44.896Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "C680": {
+    "objectId": "fvfnx4jczk",
+    "Model": "Cessna Citation Sovereign",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C680",
+    "IATACode": "CNJ",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:28:45.932Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "FA50": {
+    "objectId": "E0Ii4yEKww",
+    "Model": "Dassault Falcon 50",
+    "Manufacturer": "Dassault Falcon",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "FA50",
+    "IATACode": "DF3",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:57.377Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "6pFSgjNx6v"
+    }
+  },
+  "C919": {
+    "objectId": "YOUiZK3hXc",
+    "Model": "COMAC C919",
+    "Manufacturer": "China Commercial Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C919",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:20.368Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Y8sxc9clDE"
+    }
+  },
+  "DHC3": {
+    "objectId": "mdbDTgjuI6",
+    "Model": "De Havilland Canada DHC-3 Otter",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC3",
+    "IATACode": "DHL",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:36.022Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DH8A": {
+    "objectId": "H1tUEvIDhE",
+    "Model": "De Havilland Canada DHC-8-100 Dash 8 / 8Q",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH8A",
+    "IATACode": "DH1",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:38.064Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DH64": {
+    "objectId": "NZroLCnGii",
+    "Model": "De Havilland Comet 4 (deprecated code)",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH64",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:40.038Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DH2T": {
+    "objectId": "bqdWAL0D57",
+    "Model": "De Havilland Canada DHC-2 Turbo-Beaver",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH2T",
+    "IATACode": "DHR",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:37.222Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "F2TH": {
+    "objectId": "kHgxV5GSOL",
+    "Model": "Dassault Falcon 2000",
+    "Manufacturer": "Dassault Falcon",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F2TH",
+    "IATACode": "D20",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:29:58.430Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "6pFSgjNx6v"
+    }
+  },
+  "DHC7": {
+    "objectId": "WZFWtiGDUU",
+    "Model": "De Havilland Canada DHC-7 Dash 7",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DHC7",
+    "IATACode": "DH7",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:41.322Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DC3": {
+    "objectId": "HR7UdHHlC9",
+    "Model": "Douglas DC-3",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC3",
+    "IATACode": "D3F",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:38:45.543Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "DH62": {
+    "objectId": "IK8oHaKy7Z",
+    "Model": "De Havilland Comet 2 (deprecated code)",
+    "Manufacturer": "De Havilland Aircraft of Canada",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DH62",
+    "createdAt": "2020-01-28T22:36:38.262Z",
+    "updatedAt": "2020-01-29T01:30:43.327Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "XUY6btf2Ih"
+    }
+  },
+  "DA62": {
+    "objectId": "CPodhZoFYF",
+    "Model": "Diamond DA62",
+    "Manufacturer": "Diamond Aircraft Industries",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DA62",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.263Z",
+    "updatedAt": "2020-01-29T01:31:03.171Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "TSOZIQEUGw"
+    }
+  },
+  "DC91": {
+    "objectId": "aboj3Gipcn",
+    "Model": "Douglas DC-9-10",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC91",
+    "IATACode": "D91",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:48.206Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "DC87": {
+    "objectId": "D2607jxFIX",
+    "Model": "Douglas DC-8-72",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC87",
+    "IATACode": "D8Q",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:50.605Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "DC95": {
+    "objectId": "uHgmLPaGkV",
+    "Model": "Douglas DC-9-50",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC95",
+    "IATACode": "D95",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:51.361Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "E75S/L": {
+    "objectId": "FQv76n3Cx3",
+    "Model": "Embraer 175",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E75S/L",
+    "IATACode": "E75",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:35.485Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "DC93": {
+    "objectId": "X3MqJAxNCd",
+    "Model": "Douglas DC-9-30",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC93",
+    "IATACode": "D93",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:48.897Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "E75L": {
+    "objectId": "W2CWIV09gV",
+    "Model": "Embraer 175 (long wing)",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E75L",
+    "IATACode": "E7W",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:31:20.528Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E35L": {
+    "objectId": "fHfTwrEJRh",
+    "Model": "Embraer Legacy 600 / Legacy 650",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E35L",
+    "IATACode": "ER3",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:40.085Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E120": {
+    "objectId": "DjIFRPLZkk",
+    "Model": "Embraer EMB 120 Brasilia",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E120",
+    "IATACode": "EM2",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:39.269Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E190": {
+    "objectId": "YhoYIPHdPm",
+    "Model": "Embraer Lineage 1000",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E190",
+    "IATACode": "E90",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:49.456Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E290": {
+    "objectId": "PEFuYOuw4w",
+    "Model": "Embraer E190-E2",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E290",
+    "IATACode": "290",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:38.444Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E295": {
+    "objectId": "FrWdRK3k4m",
+    "Model": "Embraer E195-E2",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E295",
+    "IATACode": "295",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:37.530Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "DC92": {
+    "objectId": "PIEz7qe3uL",
+    "Model": "Douglas DC-9-20",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC92",
+    "IATACode": "D92",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:52.067Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "E550": {
+    "objectId": "l9Kzeul2gQ",
+    "Model": "Embraer Legacy 500 / Praetor 600",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E550",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:40.928Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "EC35": {
+    "objectId": "8B7SBq1zSh",
+    "Model": "Eurocopter EC135 / EC635",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "EC35",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:40.301Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "E135": {
+    "objectId": "ReYosXplTh",
+    "Model": "Embraer RJ140",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E135",
+    "IATACode": "ERD",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:43.113Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "GA8": {
+    "objectId": "Jv3Mnig6om",
+    "Model": "GippsAero GA8 Airvan",
+    "Manufacturer": "GippsAero",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GA8",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:17.832Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "pAJAeeYcMm"
+    }
+  },
+  "DC94": {
+    "objectId": "9nRzKgqBZD",
+    "Model": "Douglas DC-9-40",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC94",
+    "IATACode": "D94",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:54.288Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "J328": {
+    "objectId": "dniNg6xuQ4",
+    "Model": "Fairchild Dornier 328JET",
+    "Manufacturer": "Dornier Luftfahrt",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "J328",
+    "IATACode": "FRJ",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:31:10.833Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "0RLz0HsYTy"
+    }
+  },
+  "AS50": {
+    "objectId": "JB0XiYHWUW",
+    "Model": "Eurocopter AS350 \ufffd\ufffdcureuil / AS355 Ecureuil 2 / AS550 Fennec",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "AS50",
+    "IATACode": "NDE",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:39.667Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "AS32": {
+    "objectId": "ag3Pah8aEp",
+    "Model": "Eurocopter AS332 Super Puma",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "AS32",
+    "IATACode": "APH",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:38.960Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "S65C": {
+    "objectId": "GbDuh7OWwf",
+    "Model": "Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "S65C",
+    "IATACode": "NDH",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:37.904Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "F28": {
+    "objectId": "7VPz2VGAvP",
+    "Model": "Fokker F28 Fellowship",
+    "Manufacturer": "Fokker",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F28",
+    "IATACode": "F21",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:07.293Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Qp7H7JdhDr"
+    }
+  },
+  "E50P": {
+    "objectId": "BaNVqVw2gE",
+    "Model": "Embraer Phenom 100",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E50P",
+    "IATACode": "EP1",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:41.586Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "F100": {
+    "objectId": "6G1FnDCuyH",
+    "Model": "Fokker 100",
+    "Manufacturer": "Fokker",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F100",
+    "IATACode": "100",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:02.422Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Qp7H7JdhDr"
+    }
+  },
+  "G280": {
+    "objectId": "ITFAxB0yyi",
+    "Model": "Gulfstream G280",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "G280",
+    "IATACode": "GR3",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:43.030Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "DC86": {
+    "objectId": "6Db0R9jWCS",
+    "Model": "Douglas DC-8-62",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "DC86",
+    "IATACode": "D8L",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:38:53.474Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "G159": {
+    "objectId": "drOdQkdq7v",
+    "Model": "Gulfstream Aerospace G-159 Gulfstream I",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "G159",
+    "IATACode": "GRS",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:41.758Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "D328": {
+    "objectId": "FJaw6XDnHq",
+    "Model": "Fairchild Dornier Do.328",
+    "Manufacturer": "Dornier Luftfahrt",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "D328",
+    "IATACode": "D38",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:31:11.594Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "0RLz0HsYTy"
+    }
+  },
+  "E170": {
+    "objectId": "NL9tm9l7F9",
+    "Model": "Embraer 170",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E170",
+    "IATACode": "E70",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:44.075Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "F70": {
+    "objectId": "S5MzmcULLD",
+    "Model": "Fokker 70",
+    "Manufacturer": "Fokker",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F70",
+    "IATACode": "F70",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:03.882Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Qp7H7JdhDr"
+    }
+  },
+  "EV97": {
+    "objectId": "gP7oaBvrIG",
+    "Model": "EV-97 EuroStar / EV-97 Harmony",
+    "Manufacturer": "Evektor-Aerotechnik",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EV97",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:52.843Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "RqxhrPIJkU"
+    }
+  },
+  "EC25": {
+    "objectId": "xRHKVxNhYq",
+    "Model": "Eurocopter EC225 Super Puma",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "EC25",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:41.274Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "G21": {
+    "objectId": "yFOcyWYdmP",
+    "Model": "Grumman G-21 Goose",
+    "Manufacturer": "Grumman",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "G21",
+    "IATACode": "GRG",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:32.299Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "PeDk7E8xjc"
+    }
+  },
+  "E195": {
+    "objectId": "iyC2F5jWV7",
+    "Model": "Embraer 195",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E195",
+    "IATACode": "E95",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:45.451Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "E55P": {
+    "objectId": "cwoK9XMXC6",
+    "Model": "Embraer Phenom 300",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E55P",
+    "IATACode": "EP3",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:47.572Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "GLF4": {
+    "objectId": "sfheaRFtYI",
+    "Model": "Gulfstream IV",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GLF4",
+    "IATACode": "GJ4",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:43.714Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "A748": {
+    "objectId": "c0JlfvGThU",
+    "Model": "Hawker Siddeley HS 748",
+    "Manufacturer": "Avro International Aerospace",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A748",
+    "IATACode": "HS7",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:21:11.281Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "EZLIJ3KIeJ"
+    }
+  },
+  "AC90": {
+    "objectId": "vKdDAxGG3n",
+    "Model": "Gulfstream/Rockwell (Aero) Turbo Commander",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AC90",
+    "IATACode": "ACT",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:45.457Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "E545": {
+    "objectId": "jz6rilHVHl",
+    "Model": "Embraer Legacy 450 / Praetor 500",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E545",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:46.752Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "AC68": {
+    "objectId": "n7D68uwJtF",
+    "Model": "Gulfstream/Rockwell (Aero) Commander",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "AC68",
+    "IATACode": "ACP",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:44.566Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "E75S": {
+    "objectId": "iOiZuRwmFT",
+    "Model": "Embraer 175 (short wing)",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E75S",
+    "IATACode": "E7W",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:44.641Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "IL62": {
+    "objectId": "Kl8Em8VOuQ",
+    "Model": "Ilyushin IL62",
+    "Manufacturer": "Ilyushin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "IL62",
+    "IATACode": "IL6",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:03.202Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ue9Mjwc6Fl"
+    }
+  },
+  "I114": {
+    "objectId": "fbG7cEq2sT",
+    "Model": "Ilyushin IL114",
+    "Manufacturer": "Russian Aircraft Corporation MiG",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "I114",
+    "IATACode": "I14",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:54.467Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "HF4EwhPN9W"
+    }
+  },
+  "JU52": {
+    "objectId": "AgSb7CWfGP",
+    "Model": "Junkers Ju 52/3M",
+    "Manufacturer": "Junkers",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "JU52",
+    "IATACode": "JU5",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:29.680Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ahukFhbnkl"
+    }
+  },
+  "F27": {
+    "objectId": "fA3FEVKe7l",
+    "Model": "Fokker F27 Friendship",
+    "Manufacturer": "Fokker",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F27",
+    "IATACode": "F27",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:08.432Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Qp7H7JdhDr"
+    }
+  },
+  "EC45": {
+    "objectId": "ty5GTuSZAL",
+    "Model": "Eurocopter EC145",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "EC45",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:43.639Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "F50": {
+    "objectId": "G73vPBMYS4",
+    "Model": "Fokker 50",
+    "Manufacturer": "Fokker",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F50",
+    "IATACode": "F50",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:09.511Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Qp7H7JdhDr"
+    }
+  },
+  "L410": {
+    "objectId": "5rx49RJCBo",
+    "Model": "LET 410",
+    "Manufacturer": "Let Kunovice",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "L410",
+    "IATACode": "L4T",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:03.970Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "48rdGnc3bh"
+    }
+  },
+  "A5": {
+    "objectId": "MlfiZkEj71",
+    "Model": "ICON A5",
+    "Manufacturer": "ICON",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "A5",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:36:56.341Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "nYA7ZRfSwq"
+    }
+  },
+  "EVSS": {
+    "objectId": "IGAaKnBzyP",
+    "Model": "Evektor SportStar",
+    "Manufacturer": "Evektor-Aerotechnik",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "EVSS",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:54.055Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "RqxhrPIJkU"
+    }
+  },
+  "CONI": {
+    "objectId": "1bwtwOZF4V",
+    "Model": "Lockheed L-1049 Super Constellation",
+    "Manufacturer": "Lockheed Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "CONI",
+    "IATACode": "L49",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:10.884Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ysRBZ6P42t"
+    }
+  },
+  "MD83": {
+    "objectId": "XB4ooJw7kJ",
+    "Model": "McDonnell Douglas MD-83",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD83",
+    "IATACode": "M83",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:56.769Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "D228": {
+    "objectId": "qH1DBC3uVK",
+    "Model": "Fairchild Dornier Do.228",
+    "Manufacturer": "Dornier Luftfahrt",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "D228",
+    "IATACode": "D28",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:31:12.852Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "0RLz0HsYTy"
+    }
+  },
+  "IL96": {
+    "objectId": "2cKMXfLwpd",
+    "Model": "Ilyushin IL96",
+    "Manufacturer": "Ilyushin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "IL96",
+    "IATACode": "I93",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:03.889Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ue9Mjwc6Fl"
+    }
+  },
+  "MD11": {
+    "objectId": "wr6GtkbuNq",
+    "Model": "McDonnell Douglas MD-11C",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD11",
+    "IATACode": "M1M",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:02.388Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "E110": {
+    "objectId": "1aLTOVSNLw",
+    "Model": "Embraer EMB 110 Bandeirante",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E110",
+    "IATACode": "EMB",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:48.484Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "B105": {
+    "objectId": "pJ501AIZbe",
+    "Model": "Eurocopter (MBB) Bo.105",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "B105",
+    "IATACode": "MBH",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:42.522Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "E145": {
+    "objectId": "6gQnrzcMHg",
+    "Model": "Embraer RJ145",
+    "Manufacturer": "Embraer",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "E145",
+    "IATACode": "ER4",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:33:50.511Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ueRJCpoFmO"
+    }
+  },
+  "EC20": {
+    "objectId": "mGwshATsJ8",
+    "Model": "Eurocopter EC120 Colibri / Harbin HC120",
+    "Manufacturer": "Eurocopter",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "EC20",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:34:44.371Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "5lSUdoUKe0"
+    }
+  },
+  "G73T": {
+    "objectId": "czFeHOKYtI",
+    "Model": "Grumman G-73 Turbo Mallard",
+    "Manufacturer": "Grumman",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "G73T",
+    "IATACode": "GRM",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:33.621Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "PeDk7E8xjc"
+    }
+  },
+  "GLF5": {
+    "objectId": "HEyy9Kkh1A",
+    "Model": "Gulfstream V",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GLF5",
+    "IATACode": "GJ5",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:46.263Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "Y12": {
+    "objectId": "ryna1VGXo6",
+    "Model": "Harbin Yunshuji Y12",
+    "Manufacturer": "Harbin Aircraft Industry Group",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "Y12",
+    "IATACode": "YN2",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:36:14.407Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "uVGSdMBQ7q"
+    }
+  },
+  "MI24": {
+    "objectId": "hmoFyUp59k",
+    "Model": "Mil Mi-24 / Mi-25 / Mi-35",
+    "Manufacturer": "Mil Moscow Helicopter Plant",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "MI24",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:28.557Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "31sWGCrBvd"
+    }
+  },
+  "IL86": {
+    "objectId": "qHpNT3ybkL",
+    "Model": "Ilyushin IL86",
+    "Manufacturer": "Ilyushin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "IL86",
+    "IATACode": "ILW",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:04.566Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ue9Mjwc6Fl"
+    }
+  },
+  "GLF6": {
+    "objectId": "r666NpNDOb",
+    "Model": "Gulfstream G650",
+    "Manufacturer": "Gulfstream",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GLF6",
+    "IATACode": "GJ6",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:35:47.068Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DBckAmnnkI"
+    }
+  },
+  "NOMA": {
+    "objectId": "ZNAL1zoTm5",
+    "Model": "Government Aircraft Factories N22B / N24A Nomad",
+    "Manufacturer": "Government Aircraft Factories",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "NOMA",
+    "IATACode": "CD2",
+    "createdAt": "2020-01-28T22:36:38.331Z",
+    "updatedAt": "2020-01-29T01:35:25.075Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "R7AG30vDbv"
+    }
+  },
+  "IL76": {
+    "objectId": "EORFMUF3vF",
+    "Model": "Ilyushin IL76",
+    "Manufacturer": "Ilyushin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "IL76",
+    "IATACode": "IL7",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:05.664Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ue9Mjwc6Fl"
+    }
+  },
+  "HDJT": {
+    "objectId": "ysT9XRKgy8",
+    "Model": "Honda HA-420",
+    "Manufacturer": "Honda",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "HDJT",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:36:34.260Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "DfrdTMUF2Q"
+    }
+  },
+  "MU2": {
+    "objectId": "X5ccbnE6gH",
+    "Model": "Mitsubishi Mu-2",
+    "Manufacturer": "Mitsubishi",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MU2",
+    "IATACode": "MU2",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:40:53.859Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "K42zCHFKme"
+    }
+  },
+  "P28B": {
+    "objectId": "xIjrRuD1hw",
+    "Model": "Piper PA-28 (above 200\ufffd\ufffdhp)",
+    "Manufacturer": "Piper Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P28B",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:28.647Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "8q2efOAmiB"
+    }
+  },
+  "WW24": {
+    "objectId": "Tu9LrXGnFL",
+    "Model": "Israel Aircraft Industries 1124 Westwind",
+    "Manufacturer": "Israel Aircraft Industries",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "WW24",
+    "IATACode": "WWP",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:22.521Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2RRgKWBwtm"
+    }
+  },
+  "C130": {
+    "objectId": "afMSmXcf2H",
+    "Model": "Lockheed L-182 / 282 / 382 (L-100) Hercules",
+    "Manufacturer": "Lockheed Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "C130",
+    "IATACode": "LOH",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:12.902Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ysRBZ6P42t"
+    }
+  },
+  "P180": {
+    "objectId": "g3vtBDApvZ",
+    "Model": "Piaggio P.180 Avanti",
+    "Manufacturer": "Piaggio Aero",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P180",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:09.517Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "eAmTmGEEcG"
+    }
+  },
+  "IL18": {
+    "objectId": "o8wAsqQfkj",
+    "Model": "Ilyushin IL18",
+    "Manufacturer": "Ilyushin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "IL18",
+    "IATACode": "IL8",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:06.206Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ue9Mjwc6Fl"
+    }
+  },
+  "LJ35": {
+    "objectId": "i0QgruuEoy",
+    "Model": "Learjet 35 / 36 / C-21A",
+    "Manufacturer": "Learjet",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "LJ35",
+    "IATACode": "LRJ",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:37.920Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "nat7WePZrz"
+    }
+  },
+  "MD88": {
+    "objectId": "Gete2t5dFi",
+    "Model": "McDonnell Douglas MD-88",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD88",
+    "IATACode": "M88",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:01.105Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "LJ60": {
+    "objectId": "xoWFDIHDLC",
+    "Model": "Learjet 60",
+    "Manufacturer": "Learjet",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "LJ60",
+    "IATACode": "LRJ",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:37:45.536Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "nat7WePZrz"
+    }
+  },
+  "PISI": {
+    "objectId": "61g5Tp9tE5",
+    "Model": "Pipistrel Sinus",
+    "Manufacturer": "Pipistrel",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PISI",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:41.758Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "PWtYShEr8i"
+    }
+  },
+  "L101": {
+    "objectId": "sT575Zrw30",
+    "Model": "Lockheed L-1011 Tristar",
+    "Manufacturer": "Lockheed Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "L101",
+    "IATACode": "L10",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:14.948Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ysRBZ6P42t"
+    }
+  },
+  "BN2P": {
+    "objectId": "P1OTujpMMi",
+    "Model": "Pilatus Britten-Norman BN-2A/B Islander",
+    "Manufacturer": "Britten-Norman",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BN2P",
+    "IATACode": "BNI",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:27:55.013Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "v9L1lfGUy5"
+    }
+  },
+  "PA31": {
+    "objectId": "NxoZ9jhGWX",
+    "Model": "Piper PA-31 Navajo",
+    "Manufacturer": "Piper Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PA31",
+    "IATACode": "PA2",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:29.522Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "8q2efOAmiB"
+    }
+  },
+  "MD87": {
+    "objectId": "2JInfEVGbu",
+    "Model": "McDonnell Douglas MD-87",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD87",
+    "IATACode": "M87",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:04.974Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "L188": {
+    "objectId": "duDQpjBam5",
+    "Model": "Lockheed L-188 Electra",
+    "Manufacturer": "Lockheed Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "L188",
+    "IATACode": "LOE",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:17.024Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "ysRBZ6P42t"
+    }
+  },
+  "YS11": {
+    "objectId": "RKNnT2hH8B",
+    "Model": "NAMC YS-11",
+    "Manufacturer": "Nihon Aircraft Manufacturing Corporation",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "YS11",
+    "IATACode": "YS1",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:02.012Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "fgUOqZ1MJ2"
+    }
+  },
+  "MI8": {
+    "objectId": "slFOyAnjDy",
+    "Model": "MIL Mi-8 / Mi-17 / Mi-171 / Mil-172",
+    "Manufacturer": "Mil Moscow Helicopter Plant",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "MI8",
+    "IATACode": "MIH",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:40:44.755Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "31sWGCrBvd"
+    }
+  },
+  "MD81": {
+    "objectId": "PYSno3v3CV",
+    "Model": "McDonnell Douglas MD-81",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD81",
+    "IATACode": "M81",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:04.048Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "TRIS": {
+    "objectId": "HErqoU6BPm",
+    "Model": "Pilatus Britten-Norman BN-2A Mk III Trislander",
+    "Manufacturer": "Britten-Norman",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "TRIS",
+    "IATACode": "BNT",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:28:00.292Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "v9L1lfGUy5"
+    }
+  },
+  "MD90": {
+    "objectId": "ZIgxAhAuzs",
+    "Model": "McDonnell Douglas MD-90",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD90",
+    "IATACode": "M90",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:05.911Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "PA44": {
+    "objectId": "Xit9xPBkWR",
+    "Model": "Piper PA-44 Seminole",
+    "Manufacturer": "Piper Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PA44",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:32.390Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "8q2efOAmiB"
+    }
+  },
+  "MD82": {
+    "objectId": "idnZWD0nRB",
+    "Model": "McDonnell Douglas MD-82",
+    "Manufacturer": "McDonnell Douglas",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "MD82",
+    "IATACode": "M82",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:39:07.324Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zbBAGakQcN"
+    }
+  },
+  "PC12": {
+    "objectId": "mlkqdrSPDY",
+    "Model": "Pilatus PC-12",
+    "Manufacturer": "Pilatus Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PC12",
+    "IATACode": "PL2",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:19.804Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zneYgtb337"
+    }
+  },
+  "P68": {
+    "objectId": "EstjATBzse",
+    "Model": "Partenavia P.68",
+    "Manufacturer": "Vulcanair",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P68",
+    "IATACode": "PN6",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:43:57.549Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "nPltHNZtEC"
+    }
+  },
+  "EXPL": {
+    "objectId": "5ans4nVWmL",
+    "Model": "MD Helicopters MD900 Explorer",
+    "Manufacturer": "MD Helicopters",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "EXPL",
+    "IATACode": "MD9",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:38:25.255Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "fSB6qvn35h"
+    }
+  },
+  "P28A": {
+    "objectId": "MZApSQ8k32",
+    "Model": "Piper PA-28 (up to 180\ufffd\ufffdhp)",
+    "Manufacturer": "Piper Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P28A",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:31.242Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "8q2efOAmiB"
+    }
+  },
+  "PC6T": {
+    "objectId": "xUV3zKtWmV",
+    "Model": "Pilatus PC-6 Turbo Porter",
+    "Manufacturer": "Pilatus Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PC6T",
+    "IATACode": "PL6",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:21.274Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "zneYgtb337"
+    }
+  },
+  "PA46": {
+    "objectId": "5bnyYhAiCG",
+    "Model": "Piper PA-46",
+    "Manufacturer": "Piper Aircraft",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PA46",
+    "IATACode": "PAG",
+    "createdAt": "2020-01-28T22:36:38.332Z",
+    "updatedAt": "2020-01-29T01:41:33.075Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "8q2efOAmiB"
+    }
+  },
+  "BELF": {
+    "objectId": "UE9TDYiMN8",
+    "Model": "Shorts SC-5 Belfast",
+    "Manufacturer": "Short Brothers",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "BELF",
+    "IATACode": "SHB",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:09.753Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2KIYN4WCnr"
+    }
+  },
+  "PIVI": {
+    "objectId": "AGMwrhz6mw",
+    "Model": "Pipistrel Virus",
+    "Manufacturer": "Pipistrel",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PIVI",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:41:43.790Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "PWtYShEr8i"
+    }
+  },
+  "ATL": {
+    "objectId": "o9H2vPJBdQ",
+    "Model": "Robin ATL",
+    "Manufacturer": "Avions Robin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "ATL",
+    "IATACode": "ATL",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:20:26.686Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "m8O2sVnuCW"
+    }
+  },
+  "SF34": {
+    "objectId": "JKmUUHZ00r",
+    "Model": "Saab SF340A/B",
+    "Manufacturer": "Saab",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SF34",
+    "IATACode": "SF3",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:01.358Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "YmOKxCZLwP"
+    }
+  },
+  "F406": {
+    "objectId": "2owrG8RJbq",
+    "Model": "Reims-Cessna F406 Caravan II",
+    "Manufacturer": "Cessna",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "F406",
+    "IATACode": "CNT",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:28:47.110Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "JD1ztm5wOc"
+    }
+  },
+  "SC7": {
+    "objectId": "zN1D30gJmg",
+    "Model": "Shorts SC-7 Skyvan",
+    "Manufacturer": "Short Brothers",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SC7",
+    "IATACode": "SHS",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:10.552Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2KIYN4WCnr"
+    }
+  },
+  "PITA": {
+    "objectId": "mNg5iWfl19",
+    "Model": "Pipistrel Taurus",
+    "Manufacturer": "Pipistrel",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "PITA",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.388Z",
+    "updatedAt": "2020-01-29T01:41:46.426Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "PWtYShEr8i"
+    }
+  },
+  "SIRA": {
+    "objectId": "7xE2aIgF4q",
+    "Model": "Tecnam P2002 Sierra",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SIRA",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:19.632Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "S58T": {
+    "objectId": "Rw7GupgBEH",
+    "Model": "Sikorsky S-58T",
+    "Manufacturer": "Sikorsky",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "S58T",
+    "IATACode": "S58",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:22.968Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2nums1uWWN"
+    }
+  },
+  "T154": {
+    "objectId": "Kh9F8EpuX5",
+    "Model": "Tupolev Tu-154",
+    "Manufacturer": "Tupolev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "T154",
+    "IATACode": "TU5",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:39.881Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "xSJKNvHqg8"
+    }
+  },
+  "R200": {
+    "objectId": "A6Lj7Xvp9p",
+    "Model": "Robin HR200/R2000 series, Alpha160A",
+    "Manufacturer": "Avions Robin",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "R200",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:20:28.512Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "m8O2sVnuCW"
+    }
+  },
+  "TRF1": {
+    "objectId": "XZsCRk45LT",
+    "Model": "Team Rocket F1",
+    "Manufacturer": "Team Rocket",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "TRF1",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:12.178Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "q5mlIDOZVV"
+    }
+  },
+  "S76": {
+    "objectId": "VaJ2MpA2Ch",
+    "Model": "Sikorsky S-76",
+    "Manufacturer": "Sikorsky",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "S76",
+    "IATACode": "S76",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:26.378Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2nums1uWWN"
+    }
+  },
+  "ECHO": {
+    "objectId": "RAz1XVVl6Q",
+    "Model": "Tecnam P92 Echo / P92 Eaglet / P92 SeaSky",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "ECHO",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:24.889Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "S61": {
+    "objectId": "8udFVkDyuQ",
+    "Model": "Sikorsky S-61",
+    "Manufacturer": "Sikorsky",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "S61",
+    "IATACode": "S61",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:25.137Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2nums1uWWN"
+    }
+  },
+  "TWEN": {
+    "objectId": "zzfOoB3PH3",
+    "Model": "Tecnam P2010",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "TWEN",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:23.311Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "YK42": {
+    "objectId": "uv4YwESH5B",
+    "Model": "Yakovlev Yak-42",
+    "Manufacturer": "Yakovlev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "YK42",
+    "IATACode": "YK2",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:44:00.644Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "7JLGUZvySY"
+    }
+  },
+  "SU95": {
+    "objectId": "Slqjs1JLq9",
+    "Model": "Sukhoi Superjet 100-95",
+    "Manufacturer": "Sukhoi",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SU95",
+    "IATACode": "SU9",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:57.057Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "39QhRiHjDA"
+    }
+  },
+  "T134": {
+    "objectId": "VR07Nw6S9u",
+    "Model": "Tupolev Tu-134",
+    "Manufacturer": "Tupolev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "T134",
+    "IATACode": "TU3",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:39.060Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "xSJKNvHqg8"
+    }
+  },
+  "P212": {
+    "objectId": "Ru69GzVbVP",
+    "Model": "Tecnam P2012 Traveller",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P212",
+    "IATACode": "T12",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:28.381Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "SB20": {
+    "objectId": "sHCAL9DeZN",
+    "Model": "Saab 2000",
+    "Manufacturer": "Saab",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SB20",
+    "IATACode": "S20",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:02.449Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "YmOKxCZLwP"
+    }
+  },
+  "T144": {
+    "objectId": "L4dt5tmu4p",
+    "Model": "Tupolev Tu-144",
+    "Manufacturer": "Tupolev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "T144",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:40.996Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "xSJKNvHqg8"
+    }
+  },
+  "SH33": {
+    "objectId": "SMy0DdE8Zh",
+    "Model": "Shorts SD.330",
+    "Manufacturer": "Short Brothers",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SH33",
+    "IATACode": "SH3",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:11.793Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2KIYN4WCnr"
+    }
+  },
+  "SH36": {
+    "objectId": "tI5Vrs3rrb",
+    "Model": "Shorts SD.360",
+    "Manufacturer": "Short Brothers",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "SH36",
+    "IATACode": "SH6",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:13.451Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2KIYN4WCnr"
+    }
+  },
+  "S92": {
+    "objectId": "MRBFJNCJbm",
+    "Model": "Sikorsky S-92",
+    "Manufacturer": "Sikorsky",
+    "WingType": "Rotary Wing",
+    "Type": "Helicopter",
+    "ICAOCode": "S92",
+    "IATACode": "S92",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:29.309Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "2nums1uWWN"
+    }
+  },
+  "TB20": {
+    "objectId": "qA0LIQRjTN",
+    "Model": "Socata TB-20 Trinidad",
+    "Manufacturer": "Socata",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "TB20",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:42:49.484Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "Mr0agrOFIW"
+    }
+  },
+  "P06T": {
+    "objectId": "LPR0CIFibR",
+    "Model": "Tecnam P2006T",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P06T",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:29.176Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "P208": {
+    "objectId": "0tDCN8yN1z",
+    "Model": "Tecnam P2008",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "P208",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:31.066Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "GOLF": {
+    "objectId": "6EepAjH4Uf",
+    "Model": "Tecnam P96",
+    "Manufacturer": "Tecnam",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "GOLF",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:29.639Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "vSet1TOLEs"
+    }
+  },
+  "T204": {
+    "objectId": "PyZMwC2JDj",
+    "Model": "Tupolev Tu-204 / Tu-214",
+    "Manufacturer": "Tupolev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "T204",
+    "IATACode": "T20",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:48.685Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "xSJKNvHqg8"
+    }
+  },
+  "TL20": {
+    "objectId": "hI1dI7qyFM",
+    "Model": "TL Ultralight TL-96 Star / TL-2000 Sting",
+    "Manufacturer": "TL Ultralight",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "TL20",
+    "IATACode": "N/A",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:04.767Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "7OwMTAwmlY"
+    }
+  },
+  "YK40": {
+    "objectId": "dByeCUEOd5",
+    "Model": "Yakovlev Yak-40",
+    "Manufacturer": "Yakovlev",
+    "WingType": "Fixed Wing",
+    "Type": "Airplane",
+    "ICAOCode": "YK40",
+    "IATACode": "YK4",
+    "createdAt": "2020-01-28T22:36:38.389Z",
+    "updatedAt": "2020-01-29T01:43:59.486Z",
+    "Aircraft_Manufacturer": {
+      "__type": "Pointer",
+      "className": "Aircraft_Manufacturer",
+      "objectId": "7JLGUZvySY"
+    }
+  }
+}

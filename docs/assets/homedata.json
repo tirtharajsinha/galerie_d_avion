@@ -1,0 +1,26 @@
+{
+  "1": {
+    "name": "Gulfstream G700",
+    "image": "g700.png",
+    "info": "The Gulfstream G700 integrates the best features of other Gulfstream jets, including G650, G600 and G500. The jet uses an avionics-based system for monitoring and controlling the engine, take-off and landing performance, as well as safety measures. The aircraft is 33.48m-long, 7.75m-high and has a wingspan of 31.39m.",
+    "type": "Business jet"
+  },
+  "2": {
+    "name": "AIRBUS H-160",
+    "image": "h160.png",
+    "info": "The H160 is one of the world's most technologically advanced helicopters, designed and built to deliver the highest levels of operational safety while providing unmatched comfort for rotorcraft in its class.",
+    "type": "helicopter"
+  },
+  "3": {
+    "name": "BOEING 787-10 Dreamliner",
+    "image": "b787.png",
+    "info": "The aircraft has a cross section of 574cm, a wingspan of 60m, length of 68.27m and height of 17m. Its maximum take-off weight is 254,000kg and total cargo volume is 175m³, which is 41% and 15% more than that of the 787-8 and 787-9, respectively",
+    "type": "commercial aircraft"
+  },
+  "4": {
+    "name": "AIRBUS A-319neo",
+    "image": "A319neo.png",
+    "info": "With a versatile cabin that can be configured for a variety of seating options, the A320 usually seats 140 to 170 passengers and has a maximum capacity of up to 180 travellers.",
+    "type": "commercial aircraft"
+  }
+}
