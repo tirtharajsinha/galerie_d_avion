@@ -22,7 +22,7 @@
     </div>
 
     <div class="specs">
-        @for(i of createRange(10); track specsList){
+        @for(i of createRange(specsList.length); track specsList){
         @if(data[specsList[i]]!="" && data[specsList[i]]!="-"){
         <div class="spec" title="Categoty">
             <div class="spectype">{{specsList[i]}}</div>
