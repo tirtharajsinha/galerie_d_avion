@@ -1,0 +1,37 @@
+<div class="banner">
+    <div class="searchbox">
+        <div class="searchbar">
+            <button type="button" (click)="search()"><i class="fa-regular fa-magnifying-glass"></i></button>
+            <input type="text" (input)="search()" [(ngModel)]="query" placeholder="Search like 'Gulfstream G700'">
+            @if (query!="") {
+            <button type="button" (click)="clear()"><i class="fa-regular fa-xmark"></i></button>
+            }
+
+        </div>
+    </div>
+</div>
+
+<div class="parentgallary">
+    <div class="control">
+        <i class="fa-light fa-grip-dots" title="Select View"></i>
+        <i class="fa-light fa-arrow-down-square-triangle" title="Sort By"></i>
+        <i class="fa-light fa-filter-list" title="Filter"></i>
+    </div>
+    <div class="gallary">
+        <div class="grid">
+            @for (data of filtered; track data) {
+            <app-gallarycard [data]="data"></app-gallarycard>
+            }
+        </div>
+    </div>
+    @if(filtered.length==0){
+    <div class="nodata">
+        <i class="fa-regular fa-face-confused"></i>
+        <p>No matched aircrafts found.</p>
+    </div>
+    }
+</div>
+
+
+
+<div class="spacer"></div>

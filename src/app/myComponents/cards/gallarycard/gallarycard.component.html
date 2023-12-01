@@ -1,0 +1,34 @@
+<div class="card">
+    <a class="cardbox" routerLink="/view/{{data.ICAO}}">
+        <div class="imagebox" style="background-image:url('{{data.Image}}');">
+            <img src="/assets/data/manufacturer_logo/{{data.Manufacturer}}/{{data.Manufacturer}} logo transparent/Image_1.png"
+                alt="" class="manufacturerlogo" title="{{data.Manufacturer}}">
+        </div>
+        <div class="databox">
+
+            <div class="namebox">
+                <h3 title="{{data.Model}}">{{data.Model}}</h3>
+                <h5 title="{{data.Type}}">{{data.Type}}</h5>
+            </div>
+
+            <div class="specs">
+                <div class="spec" title="ICAO">
+                    <div class="spectype">ICAO</div>
+                    <div class="specdata">{{data.ICAO}}</div>
+                </div>
+                <div class="spec" title="Categoty">
+                    <div class="spectype">CATAGORY</div>
+                    <div class="specdata">{{data.Category}}</div>
+                </div>
+                <div class="spec" title="Max Speed">
+                    <div class="spectype">MAXSPEED</div>
+                    <div class="specdata">{{data.MaxSpeed}}</div>
+                </div>
+                <div class="spec" title="Persons On Board">
+                    <div class="spectype">POB</div>
+                    <div class="specdata">{{data.PersonsOnBoard}}</div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>

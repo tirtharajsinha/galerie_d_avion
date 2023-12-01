@@ -1,0 +1,111 @@
+.banner {
+  width: 100%;
+  height: 30vh;
+  background-image: url("/assets/WallpaperImage.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.banner .searchbox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  transform: translateY(50%);
+  left: 0;
+}
+
+.banner .searchbox .searchbar {
+  width: 90%;
+  max-width: 700px;
+  background-color: var(--background-color);
+  border: 2px solid var(--accent-color);
+  -webkit-box-shadow: 0px 0px 10px 1px rgba(212, 128, 77, 0.75);
+  -moz-box-shadow: 0px 0px 10px 1px rgba(212, 128, 77, 0.75);
+  box-shadow: 0px 0px 10px 1px rgba(212, 128, 77, 0.75);
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 30px 1fr 30px;
+  grid-template-rows: 1fr;
+}
+
+.banner .searchbox .searchbar input {
+  background: transparent;
+  color: var(--text-color);
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  outline: none;
+  border: none;
+  padding: 10px;
+  width: 100%;
+}
+
+.banner .searchbox .searchbar button {
+  background-color: transparent;
+  color: var(--text-color);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 18px;
+  text-align: right;
+}
+
+.banner .searchbox .searchbar button:last-child {
+  text-align: left;
+}
+
+.parentgallary {
+  min-height: 70vh;
+  width: 100%;
+  margin-top: 70px;
+}
+
+.gallary {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.grid {
+  width: 90%;
+  display: grid;
+  grid-gap: 10px;
+  grid-row-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  /* grid-auto-rows: 1fr; */
+  justify-items: center;
+  /* align-items: center; */
+}
+
+.nodata {
+  width: 100%;
+  font-size: 30px;
+  letter-spacing: 1px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.nodata i {
+  font-size: 60px;
+  color: var(--accent-color);
+  margin-bottom: 20px;
+}
+
+.control {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.control i:nth-child(1) {
+  font-size: 30px;
+}

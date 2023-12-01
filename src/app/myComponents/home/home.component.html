@@ -1,0 +1,41 @@
+<div class="banner">
+    <div class="bg">
+        <div class="blob"></div>
+        <div class="blob"></div>
+        <div class="blob"></div>
+    </div>
+    <div class="bannerbox">
+        <div class="leftbox">
+            <div class="leftboxholder">
+                <div>Aviation Enthusiast? You are at right place. Searching about your dream aircraft? Let us assist
+                    you.
+                </div>
+                <div>
+                    <a routerLink="/gallary">GET STARTED</a>
+                </div>
+
+            </div>
+
+
+        </div>
+        <div class="imagebox">
+            <img src="/assets/jet_fighter.png" alt="">
+            <img src="/assets/private_jet.png" alt="">
+        </div>
+    </div>
+
+</div>
+
+
+<div class="flightexample">
+    <ng-template ngFor let-item [ngForOf]="createRange(2)">
+        <app-homecard [aircraftid]="item"></app-homecard>
+    </ng-template>
+
+</div>
+
+<div class="flightexample">
+    <ng-template ngFor let-item [ngForOf]="createRange(2)">
+        <app-homecard [aircraftid]="item+2"></app-homecard>
+    </ng-template>
+</div>

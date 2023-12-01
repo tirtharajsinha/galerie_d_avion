@@ -1,0 +1,37 @@
+<div class="container">
+    <div class="poster" style='background: url("/assets/data/AircraftImage/{{Image}}");'></div>
+
+    <div class="headdetails">
+        <img src="/assets/data/manufacturer_logo/{{data['Manufacturer']}}/{{data['Manufacturer']}} logo transparent/Image_1.png"
+            alt="" class="manufacturerlogo" title="{{data['Manufacturer']}}">
+
+        <h2>{{data["Model"]}}</h2>
+        <h4>ICAO : {{id}}</h4>
+        <p>
+            {{data["Model"]}} is a {{data["WingType"]}} type {{data["Type"]}} manufactured by {{data['Manufacturer']}}.
+            It's a {{data['Category']}} category {{data["Type"]}} capable of carrying {{data["PersonsOnBoard"]}} peoples
+            on board. {{data["Model"]}}'s Maximim speed can reach up to {{data["MaxSpeed"]}} kts/M although Optimum
+            Speed is {{data["OptSpeed"]}} kts/M.
+
+        </p>
+
+    </div>
+    <div class="otherimages">
+        <img src="{{Image3d}}" alt="">
+        <img src="{{ImageLowQ}}" alt="">
+    </div>
+
+    <div class="specs">
+        @for(i of createRange(10); track specsList){
+        @if(data[specsList[i]]!="" && data[specsList[i]]!="-"){
+        <div class="spec" title="Categoty">
+            <div class="spectype">{{specsList[i]}}</div>
+            <div class="specdata">{{data[specsList[i]]}} {{specsUnit[i]}}</div>
+        </div>
+        }
+
+        }
+
+
+    </div>
+</div>
