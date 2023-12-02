@@ -46,6 +46,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+.headdetailsOnPhone {
+  justify-content: center;
+}
+
 .headdetails .manufacturerlogo {
   width: max(calc(20vw * 1.1), 200px);
   height: auto;

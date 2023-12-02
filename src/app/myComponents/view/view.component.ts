@@ -66,9 +66,11 @@ export class ViewComponent {
   handelPosterSize() {
     if (window.innerHeight > window.innerWidth) {
       document.querySelector(".poster").classList.add("posterOnPhone");
+      document.querySelector(".headdetails").classList.add("headdetailsOnPhone");
     }
     else {
       document.querySelector(".poster").classList.remove("posterOnPhone");
+      document.querySelector(".headdetails").classList.remove("headdetailsOnPhone");
     }
   }
 
